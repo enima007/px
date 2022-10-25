@@ -1,8 +1,8 @@
 # Visual Studio Code `Extensions`
 
-The list of visual studio code extensions that i may or may not use `:stuck_out_tongue_winking_eye:`
+The list of visual studio code extensions that i may or may not use :stuck_out_tongue_winking_eye:
 
-### Editor (First cuz i don't respect alphabetical order `:sunglasses:` )
+### Editor (First cuz i don't respect alphabetical order :sunglasses: )
 - alexdima.copy-relative-path
 - esbenp.prettier-vscode
 - ms-vscode.sublime-keybindings
