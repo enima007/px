@@ -4,7 +4,7 @@
 ## [Export your vscode exrtensions list](#setup-vscode-access-from-command-line)
 
 
-## [Extensions that i may or may not use :stuck_out_tongue_winking_eye: ](extensions.md)
+## [Extensions that i may or may not use `:stuck_out_tongue_winking_eye:` ](extensions.md)
 
 
 ### Setup VSCode command line access
