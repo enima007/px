@@ -1,3 +1,3 @@
 # Editors `Journey`
 
-### [VSCode](vs-code/index.md)
+- [VSCode](vs-code/index.md)

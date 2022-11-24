@@ -10,11 +10,11 @@
 
 You may want to access visual studio code from command line (`terminal`).
 
-Simple just press 
+Simple... just press 
 
 <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>p</kbd>
 
-and select ( Shell Command: Install 'code' command in PATH ).
+type `shell` and select ( Shell Command: Install 'code' command in PATH ).
 
 ### Export your vscode exrtensions list
 
