@@ -1,1 +1,1 @@
-# Javascript journey
+# Javascript `Journey`
